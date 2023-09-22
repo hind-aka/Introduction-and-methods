@@ -44,7 +44,7 @@ The high mortality rate among recently released individuals is a pressing concer
 
 •	I will examine whether there are any areas of insufficient research on health information for recently released individuals.<br/>
 
-•	This will involve comprehensive searches in reputable academic databases such as PubMed, Google Scholar.<br/>
+•	I will involve comprehensive searches in reputable academic databases such as PubMed, Google Scholar.<br/>
 
 •	I will apply predefined inclusion and exclusion criteria to select studies that meet the research objectives.<br/>
 
@@ -68,7 +68,7 @@ The high mortality rate among recently released individuals is a pressing concer
 
 •	I will integrate findings from demographic profiles, content analysis, and literature review to analyze how age and gender influence the specific health information needs of recently released individuals. <br/>
 
-•	This analysis will offer important insights for customizing the content and features of the website. <br/>
+•	Using this analysis I will offer important insights for customizing the content and features of the website. <br/>
 
 •	Finally, I will develop a conceptual plan for a user-centric, informative, and accessible health-focused website, outlining the structure, content, and features of the platform. <br/>
 
