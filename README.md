@@ -23,7 +23,7 @@ The high mortality rate among recently released individuals is a pressing concer
 
 •	Recent statistics highlight that New York City stands out with one of the highest rates of post-release individuals in the United States. [Since you asked: How many people are released from each state’s prisons and jails every year?](https://www.prisonpolicy.org/blog/2022/08/25/releasesbystate/) <br/>
 
-•	The high number of individuals released in New York City makes it especially relevant location for this research, providing a substantial context for the study. <br/>
+•	The high number of individuals released in New York City makes it a relevant location for this research, providing a substantial context for the study. <br/>
 
 •	The development of a user-centric, informative, and accessible health program is a crucial step towards improving the overall health and prospects of individuals recently released from incarceration. [Building effective service delivery mechanisms for justice-involved individuals: an under-researched area](https://link.springer.com/article/10.1186/2194-7899-2-2). <br/>
 
