@@ -15,7 +15,7 @@ The high mortality rate among recently released individuals is a pressing concer
 
 • Timely access to healthcare, health information, and ongoing health management is crucial, considering that the risk of mortality is highest in the early days and weeks after release. <br/>
 
-•	People who have recently been released from incarceration often struggle with navigating the complex healthcare system, which can result in insufficient use of healthcare services and worsen existing health issues. [Incarceration and the health of the african american community](https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/abs/incarceration-and-the-health-of-the-african-american-community1/634082926AD197DE0A2AD71B87C62E27). <br/>
+•	People who have recently been released from incarceration often struggle with navigating the complex healthcare system, which can result in insufficient use of healthcare services and worsen existing health issues. [Incarceration and the health of the african american community](https://www.researchgate.net/publication/231786270_Incarceration_and_the_Health_of_the_African_American_Community). <br/>
 
 •	The restricted availability of clear and understandable health information increases the risk of negative health outcomes for recently released individuals. [Coming Home from Jail: The Social and Health Consequences of Community Reentry for Women, Male Adolescents, and Their Families and Communities](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2004.056325). <br/>
 
